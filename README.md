@@ -15,3 +15,7 @@ Na terceira aula pegamos os filmes do IMDb e geramos figurinhas com os pôsteres
 ### Aula 04
 
 Na quarta aula construimos uma API REST para expor nosso próprio conteúdo, utilizando ferramentas profissionais como o Spring Framework e um banco de dados NoSQL.
+
+### Aula 05
+
+Na última aula tornamos nossa aplicação acessível por qualquer pessoa, fazendo o deploy na nuvem. Além disso, geramos figurinhas a partir do conteúdo dessa nossa API.
